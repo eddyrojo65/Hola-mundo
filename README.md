@@ -1,4 +1,4 @@
-# Hola-mundo
-Mi primer repositorio de GitHub
+# hola-mundo
+Mi primer repositorio de github
 
 Autor: Eduardo Rojo
